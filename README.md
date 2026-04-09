@@ -2,8 +2,6 @@
 
 ## I am Pedro Henrique Pedroso, a Computer Science student at UENP.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHPedroso&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-statst)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
