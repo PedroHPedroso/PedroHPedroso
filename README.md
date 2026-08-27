@@ -1,6 +1,16 @@
-# Hi, I'm Pedro Henrique Pedroso 👋
+<div align="center">
 
-### Computer Science Student @ UENP | Backend Development | Distributed Systems
+  # Hi, I'm Pedro Henrique Pedroso 👋
+  
+</div>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=44C7F7&center=true&vCenter=true&repeat=true&width=435&lines=Full+Stack+Developer;Computer+Science+Student;" alt="Typing SVG"/>
+
+</div>
+
+---
 
 I'm a **Computer Science student at Universidade Estadual do Norte do Paraná — UENP**, interested in software development, backend technologies, distributed systems and computer science fundamentals.
 
