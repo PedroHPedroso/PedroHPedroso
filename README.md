@@ -59,6 +59,12 @@ I enjoy turning concepts learned at university into practical projects involving
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/PedroHPedroso/PedroHPedroso/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
+</div>
+
+---
+
+<div align="center">
 
 ### 💻 Building, learning and improving one commit at a time.
 
